@@ -4,4 +4,4 @@ from flask import render_template
 
 @app.route('/')
 def index():
-    return "hello"
+    return "Rock, Paper, Scissors"
